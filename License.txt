@@ -1,0 +1,21 @@
+Custom Non-Commercial Mod License
+
+Copyright (c) 2026 LCD_TheOG
+
+Permission is granted to use, copy, modify, and distribute this mod for non-commercial purposes, including use in public or private Minecraft modpacks.
+
+You may:
+- Include this mod in modpacks.
+- Modify this mod for personal use, server use, or compatibility fixes.
+- Share modified versions for free, as long as credit is given to the original author.
+
+You may not:
+- Sell this mod.
+- Sell modified versions of this mod.
+- Put this mod or modified versions behind a paywall.
+- Reupload this mod to another platform for profit.
+- Claim this mod as your own original work.
+
+Modpacks may include this mod as long as users are not charged specifically for access to this mod.
+
+This license does not grant rights to Dragon Mine Z, Minecraft, Mojang, Microsoft, or any third-party dependencies.
