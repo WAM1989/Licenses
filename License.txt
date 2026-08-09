@@ -21,6 +21,7 @@ Permission is granted to use, copy, modify, and distribute this mod for non-comm
 - Charge users for access to a modpack or collection containing this mod.
 - Reupload this mod to another platform for profit.
 - Claim this mod or modified versions of this mod as your own original work.
+- Create derivative works or substantially modified versions that circumvent the non-commercial restrictions of this license.
 
 ## Paid Content Restriction
 
@@ -29,6 +30,8 @@ This mod may **not** be included, bundled, distributed, or made available as par
 This restriction also applies when another mod, dependency, or required component included in the same distribution is paid, paywalled, or requires payment for access.
 
 This mod must remain freely obtainable and freely usable. No payment may be required, directly or indirectly, to obtain, access, download, or use this mod or a distribution containing it.
+
+**Any derivative work, modified version, or substantially altered version of this mod remains subject to all terms and restrictions of this license, regardless of the extent of modifications made.**
 
 This license does not grant permission to redistribute, modify, or commercially use any other mod, asset, software, or content included alongside this mod. Each third-party component remains subject to its own license and terms.
 
