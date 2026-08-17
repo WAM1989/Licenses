@@ -1,0 +1,63 @@
+# Title: eBay (ebay.com) Blocklist
+# Description: Blocks ebay.com and all of its known subdomains
+# Format: Hosts file (0.0.0.0 <domain>) - compatible with Pi-hole adlists
+# Last updated: 2026-08-17
+
+# Primary domain
+0.0.0.0 ebay.com
+0.0.0.0 www.ebay.com
+0.0.0.0 www2.ebay.com
+0.0.0.0 m.ebay.com
+
+# Account / sign-in / payments
+0.0.0.0 signin.ebay.com
+0.0.0.0 accounts.ebay.com
+0.0.0.0 my.ebay.com
+0.0.0.0 pay.ebay.com
+0.0.0.0 offer.ebay.com
+
+# Marketplace sections
+0.0.0.0 motors.ebay.com
+0.0.0.0 stores.ebay.com
+0.0.0.0 deals.ebay.com
+0.0.0.0 shop.ebay.com
+0.0.0.0 new.ebay.com
+0.0.0.0 community.ebay.com
+0.0.0.0 pages.ebay.com
+0.0.0.0 about.ebay.com
+0.0.0.0 announcements.ebay.com
+
+# Support / resolution
+0.0.0.0 resolutioncenter.ebay.com
+0.0.0.0 messages.ebay.com
+0.0.0.0 feedback.ebay.com
+0.0.0.0 chat.ebay.com
+0.0.0.0 hub.ebay.com
+
+# Developer / API
+0.0.0.0 developer.ebay.com
+0.0.0.0 api.ebay.com
+0.0.0.0 svcs.ebay.com
+0.0.0.0 open.api.ebay.com
+0.0.0.0 export.ebay.com
+0.0.0.0 reports.ebay.com
+
+# Tracking / redirect links
+0.0.0.0 rover.ebay.com
+0.0.0.0 ir.ebay.com
+0.0.0.0 pulsar.ebay.com
+0.0.0.0 timing.ebay.com
+0.0.0.0 follow.ebay.com
+
+# Legacy CGI servers
+0.0.0.0 cgi.ebay.com
+0.0.0.0 cgi1.ebay.com
+0.0.0.0 cgi2.ebay.com
+0.0.0.0 cgi3.ebay.com
+0.0.0.0 cgi4.ebay.com
+0.0.0.0 cgi5.ebay.com
+0.0.0.0 cgi6.ebay.com
+
+# Charity / giving
+0.0.0.0 give.ebay.com
+0.0.0.0 charity.ebay.com
